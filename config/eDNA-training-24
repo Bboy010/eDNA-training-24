@@ -2,9 +2,6 @@ name: eDNA-training-24
 channels:
   - conda-forge
   - bioconda
-  - nvidia
-  - pytorch
-  - neo4j
   - defaults
 dependencies:
   - _libgcc_mutex=0.1=conda_forge
