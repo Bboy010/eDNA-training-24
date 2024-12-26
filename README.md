@@ -148,4 +148,4 @@ bash run_pipeline.sh
 ```
 ---
 
-[^1]: 🤦[HONGO](hkoffianderson@gmail.com) 🔗[linkedIn](https://www.linkedin.com/in/koffi-anderson-hongo-b165a4170/)
+🤦[HONGO](hkoffianderson@gmail.com) 🔗[linkedIn](https://www.linkedin.com/in/koffi-anderson-hongo-b165a4170/)
